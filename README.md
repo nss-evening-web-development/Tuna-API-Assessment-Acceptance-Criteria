@@ -4,19 +4,14 @@ This API enables developers to create applications that provide song recommendat
 
 Let's make millions! 💰 💰 💰
 
-### MVP Routes by Entity
 
-These are all the available routes for this API. Each route has an associated ticket containing the following information:
+### Ticket Layout Example
 
-- Route description
-- Request structure:
-  - HTTP method.
-  - Route path.
-  - JSON body (if applicable).
-- Response structure:
-  - JSON body (if applicable).
-  - Status code.
+Each ticket has a `Title`, `Description`, `Request`, and `Response` example information. See example below:
 
+<img width="1121" alt="Screenshot 2024-12-10 at 11 13 02 AM" src="https://github.com/user-attachments/assets/41bf1b53-0f29-4099-89c3-720b0bede075">
+
+### MVP Routes by Entity Tickets
 #### 🎶 Songs
 
 - [Create a Song](./documentation/issue-tickets/Create-Song.md)
