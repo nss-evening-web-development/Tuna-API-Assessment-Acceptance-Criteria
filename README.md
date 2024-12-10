@@ -12,6 +12,8 @@ Each ticket has a `Title`, `Description`, `Request`, and `Response` example info
 <img width="1121" alt="Screenshot 2024-12-10 at 11 13 02 AM" src="https://github.com/user-attachments/assets/41bf1b53-0f29-4099-89c3-720b0bede075">
 
 ### MVP Routes by Entity Tickets
+Below are the tickets that you need to complete to create your API.
+
 #### 🎶 Songs
 
 - [Create a Song](./documentation/issue-tickets/Create-Song.md)
